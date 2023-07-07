@@ -1,4 +1,4 @@
-# uaslabpbk
+# widget-example
 
 ## Project setup
 ```
